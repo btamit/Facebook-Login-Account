@@ -1,0 +1,89 @@
+*{margin:0;padding:0;outline: 0;}
+body{}
+a{text-decoration: none;color:#7272c3;}
+.fix{overflow: hidden;}
+.full_wrapper{width:100%;height: 80px}
+.wrapper{width:960px;margin:0 auto;font-family: arial;}
+.header_bg{background: #405D9B}
+.logo{width:550px;float: left}
+.logo h1{    margin-top: 18px;color:#fff;
+    font-size: 42px;}
+.nav{width:400px;float: right;}
+.phone{    width: 150px;color:#fff;font-size: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;}
+.password{    width: 150px;color:#fff;font-size: 15px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;}
+.password p{color:#fff;}
+input[type="email"]{padding:2px;    margin-top: 4px;}
+input[type="password"]{padding:2px;    margin-top: 4px;}
+.button2.fix {
+       margin-top: 31px;
+
+   }
+ .button2  a {
+    text-decoration: none;
+    color: #fff;
+    background: #3C8CC1;
+    padding: 2px 5px;
+    display: inline-block;
+    border: 1px solid #2d5569;
+    border-radius: 3px;
+}
+.button2 a:hover{background: #0269bb;border: 1px solid #0269bb;}
+.content_bg{background: #EBEDF4;height: 570px;}
+.contentimg{float: left;width:500px;}
+.contentimg h2{    font-size: 18px;
+    padding-top: 46px;
+    line-height: 26px}
+.contentimg img{width:450px;}
+.maincontent{float: right;width:420px;}
+.maincontent h1{margin-top:30px;margin-bottom: 8px;font-size: 39px;}
+.maincontent p{font-size: 20px;}
+.maincontent input[type="text"]{    padding: 7px;width:182px;
+    margin-top: 10px;
+    border: 1px solid #b8b8da;
+    border-radius: 3px;
+    font-size: 17px;}
+.maincontent input[type="email"]{    width: 383px;padding:7px;
+    font-size: 17px;    border-radius: 2px;
+    border: 1px solid #a7adc3;}
+.maincontent input[type="password"]{    width: 383px;padding:7px;
+    font-size: 17px;    border-radius: 2px;    margin-bottom: 15px;
+    border: 1px solid #a7adc3;}
+.maincontent input[type="date"]{
+	    font-size: 17px;
+    margin: 13px 0;
+}
+.maincontent span{font-size: 12px;color: #afafbd;}
+.maincontent p{font-size: 12px;margin:20px 0;color:#a09c9c;}
+.button1 a{     
+    display: inline-block;
+    background: #60964C;
+   border: 1px solid #a4b2b9;;
+    border-radius: 4px;
+    font-size: 20px;
+    color: #fff;
+    padding: 7px 18px;}
+ .button1 a:hover{background: #498433;}
+.footer p{font-size: 12px;    border-bottom: 1px solid #afafbd;    padding-top: 8px;
+    padding-bottom: 15px;    margin-bottom: 15px;}
+.footer a{font-size: 12px;padding-right: 27px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
